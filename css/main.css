@@ -20,7 +20,7 @@ figcaption {
   text-align: center;
 }
 
- h2 figcaption:first-child {
+h2 figcaption:first-child {
   font-size: 1rem;
 }
 
