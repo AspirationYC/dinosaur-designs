@@ -1,0 +1,44 @@
+html {
+  background-color: #f2f1ed;
+  font-family: 'Patua One', cursive;
+  line-height: 1.5rem;
+}
+
+h1, h2 {
+  color: #5d8432;
+  font-family: 'Patua One', cursive;
+  text-transform: uppercase;
+}
+
+img {
+  width: 100%;
+}
+
+figcaption {
+  font-size: 0.5rem;
+  font-style: italic;
+  text-align: center;
+}
+
+ h2 figcaption:first-child {
+  font-size: 1rem;
+}
+
+nav {
+  font-family: 'Patua One', cursive;
+}
+
+nav a {
+  font-weight: bold;
+  font-size: 1.123rem;
+}
+
+a,
+a:link {
+  color: #793284;
+}
+
+a,
+a:hover {
+  color: #b42885;
+}
