@@ -19,9 +19,9 @@ figcaption {
   text-align: center;
 }
 
-/* #hadrosaur {
+figcaption:first-child {
   font-size: 1rem;
-} */
+}
 
 nav {
   font-family: "Patua One", cursive;
